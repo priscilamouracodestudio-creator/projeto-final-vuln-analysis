@@ -1,0 +1,1 @@
+Log do Ambiente de Testes Data e hora de início: 25/10/2026 - 15:45 Ferramenta de virtualização: Docker version 28.5.2+dfsg4 Imagem utilizada: bkimminich/juice-shop:latest URL do alvo: http://localhost:3000 Observação: Ambiente isolado, rodando localmente em máquina Kali Linux (VirtualBox), sem impacto em terceiros.
